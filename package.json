@@ -1,0 +1,11 @@
+{
+  "name": "FrameworkCypress",
+  "version": "1.0.0",
+  "description": "Meu Projeto",
+  "main": "index.js",
+  "author": "Leandro",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.7.0"
+  }
+}
