@@ -11,7 +11,6 @@ Instalação
 Siga os passos abaixo para configurar o ambiente de teste Cypress:
 
 Clone o repositório para sua máquina local:
-git clone https://github.com/seu-usuario/cypress-simple-project.git
 
 Navegue até a pasta do projeto:
 cd cypress-simple-project
